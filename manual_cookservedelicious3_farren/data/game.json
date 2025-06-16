@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "CookServeDelicious3",
+  "creator": "Farren",
+  "filler_item_name": "Whisk's Encouragement",
+  "starting_items": []
+}

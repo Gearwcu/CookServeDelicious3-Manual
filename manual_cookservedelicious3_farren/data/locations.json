@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Buttermilk County - Chef University 1 Bronze",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Chef University 1 Silver",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Chef University 2 Bronze",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Chef University 2 Silver",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Chef University 3 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Chef University 3 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 1 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 1 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 2 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 2 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 3 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 3 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 1 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 1 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 2 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 3 Point Recipes| )  OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 2 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 3 Point Recipes| )  OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 3 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Hazelwood 3 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 1 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 1 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 2 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 2 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Cashew 1 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Cashew 1 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Cashew 2 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Cashew 2 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )  OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Buttermilk County - Cashew 3 Bronze (Exit)",
+    "requires": "( |Foods - 3 Point Recipes| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 1 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 1 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 2 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 2 Silver",
+    "requires": "( |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 3 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 5 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:2| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 3 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )  OR ( |Foods - 5 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:2| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 4 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| )  OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| )  OR ( |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 4 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 1 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 1 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 2 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 2 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 3 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:1| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 3 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:1| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 4 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 4 Silver",
+    "requires": "( |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )  OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 5 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Cheesyblasters 5 Silver",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 1 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 1 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 2 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 2 Silver",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 3 Bronze",
+    "requires": "|Foods - 1 Point Recipes|",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 3 Silver",
+    "requires": "|Foods - 1 Point Recipes|",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 4 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 4 Silver",
+    "requires": "( |Foods - 1 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 5 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 5 Silver",
+    "requires": "( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 6 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:6| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Retirement 6 Silver",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:6| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 1 Bronze",
+    "requires": "( |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 1 Silver",
+    "requires": "( |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| )OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 2 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 2 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 5 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 3 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:2| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Bitter 3 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:2| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 1 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 1 Silver",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 2 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 2 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 3 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Simmered 3 Silver",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 1 Bronze",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 1 Silver",
+    "requires": [],
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 2 Bronze",
+    "requires": "|Foods - 1 Point Recipes| AND |Signs - Food Truck Attack (The Deep)|",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 2 Silver",
+    "requires": "|Foods - 1 Point Recipes| AND |Signs - Food Truck Attack (The Deep)|",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 3 Bronze",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Nacho Cheese 3 Silver",
+    "requires": "( |Foods - 2 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:3| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 1 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:7| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Upgrades - Prep Station:4| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Upgrades - Prep Station:1| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Upgrades - Prep Station:3| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 1 Silver",
+    "requires": "( |Foods - 5 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:7| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 2 Point Recipes| AND |Upgrades - Prep Station:4| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 3 Point Recipes| AND |Upgrades - Prep Station:1| AND |Signs - Food Truck Attack (The Deep)| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Upgrades - Prep Station:3| AND |Signs - Food Truck Attack (The Deep)| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 2 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:5| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 2 Silver",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:5| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 3 Bronze",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 3 Silver",
+    "requires": "( |Foods - 5 Point Recipes| ) OR ( |Foods - 4 Point Recipes| ) OR ( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 4 Bronze",
+    "requires": "( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 4 Silver",
+    "requires": "( |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:4| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 5 Bronze",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 5 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 5 Silver",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 4 Point Recipes| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 5 Point Recipes| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| )",
+    "category": []
+  },
+  {
+    "name": "Evergreen Meadows - Stale Chips 6 Bronze (Exit)",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 2 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Upgrades - Prep Station:6| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| )",
+    "category": []
+  },
+  {
+    "name": "The Speedway Awaits!",
+    "requires": "( |Foods - 1 Point Recipes| AND |Foods - 2 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 1 Point Recipes| AND |Foods - 5 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| )  OR ( |Foods - 2 Point Recipes| AND |Foods - 3 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| ) OR ( |Foods - 3 Point Recipes| AND |Foods - 4 Point Recipes| AND |Signs - Evergreen Meadows - Exit Sign| AND |Stars - Evergreen Meadows - Glowing Review:5| AND |Signs - Buttermilk County - Exit Sign| AND |Stars - Buttermilk County - Glowing Review:5| )",
+    "victory": true,
+    "category": [
+      "Victory"
+    ]
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 4 Bronze",
+    "category": [
+      "Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 4 Silver",
+    "category": [
+      "Evergreen Meadows"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 4 Bronze",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County - Harmonica 4 Silver",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 3 Bronze",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Buttermilk County - Sharp Cheddar 3 Silver",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 5 Bronze",
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Evergreen Meadows - Jiggly Hills 5 Silver",
+    "category": [],
+    "requires": []
+  }
+]
