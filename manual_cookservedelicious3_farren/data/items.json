@@ -2,133 +2,133 @@
   {
     "name": "Foods - 1 Point Recipes",
     "count": 1,
-    "category": [],
+    "category": ["Foods"],
     "progression": true
   },
   {
     "name": "Foods - 2 Point Recipes",
     "count": 1,
-    "category": [],
+    "category": ["Foods"],
     "progression": true
   },
   {
     "name": "Foods - 3 Point Recipes",
     "count": 1,
-    "category": [],
+    "category": ["Foods"],
     "progression": true
   },
   {
     "name": "Foods - 4 Point Recipes",
     "count": 1,
-    "category": [],
+    "category": ["Foods"],
     "progression": true
   },
   {
     "name": "Foods - 5 Point Recipes",
     "count": 1,
-    "category": [],
+    "category": ["Foods"],
     "progression": true
   },
   {
     "name": "Upgrades - Prep Station",
     "count": 7,
-    "category": [],
+    "category": ["Upgrades"],
     "progression": true
   },
   {
     "name": "Upgrades - Holding Station",
     "count": 4,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Heat Lamps",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Cooking Time Regulator",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Special System Analyzer",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Rejuvenator",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Aroma Blower",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Serving Cloner",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Food Truck Reinforcements",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Upgrades - Autoserve",
     "count": 1,
-    "category": [],
+    "category": ["Upgrades"],
     "useful": true
   },
   {
     "name": "Signs - Food Truck Attack (The Deep)",
     "count": 1,
-    "category": [],
+    "category": ["Signs"],
     "progression": true
   },
   {
     "name": "Signs - Buttermilk County - Exit Sign",
     "count": 1,
-    "category": [],
+    "category": ["Signs"],
     "progression": true
   },
   {
     "name": "Stars - Buttermilk County - Glowing Review",
     "count": 5,
-    "category": [],
+    "category": ["Stars"],
     "progression": true
   },
   {
     "name": "Signs - Evergreen Meadows - Exit Sign",
     "count": 1,
-    "category": [],
+    "category": ["Signs"],
     "progression": true
   },
   {
     "name": "Stars - Evergreen Meadows - Glowing Review",
     "count": 5,
-    "category": [],
+    "category": ["Stars"],
     "progression": true
   },
   {
     "name": "Currency - Idaho Potato Skins ($5)",
     "count": 24,
-    "category": [],
-    "useful": true
+    "category": ["Currency"],
+    "useful": false
   },
   {
     "name": "Currency - Utah Flats Bills ($5)",
     "count": 25,
-    "category": [],
-    "useful": true
+    "category": ["Currency"],
+    "useful": false
   }
 ]
